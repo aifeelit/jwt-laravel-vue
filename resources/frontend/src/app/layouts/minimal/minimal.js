@@ -1,0 +1,6 @@
+/* ============
+ * Minimal layout
+ * ============
+ */
+
+export default {};
